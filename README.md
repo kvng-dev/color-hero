@@ -1,4 +1,3 @@
-Here's a simple **README.md** template for your Color Heroes game project:
 
 ```markdown
 # Color Heroes Game 🎮
@@ -43,7 +42,7 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
    npm start
    ```
 
-   This will start the app on [http://localhost:3000](http://localhost:3000).
+   This will start the app on [http://localhost:3000](http://localhost:5173).
 
 ## How to Play
 
